@@ -9,6 +9,7 @@ import persp
 
 
 
+
 @client.event
 async def on_ready():
 	print("IM READY LOL")
